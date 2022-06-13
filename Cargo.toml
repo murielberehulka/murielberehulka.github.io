@@ -1,0 +1,17 @@
+[[bin]]
+name = "compiler"
+path = "src/compiler.rs"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
+[package]
+name = "murielberehulka"
+version = "0.1.0"
+edition = "2021"
+default-run = "compiler"
+
+[dependencies]
+staticator = {path="../staticator"}
+rust-net = {git="https://github.com/murielberehulka/rust-net"}

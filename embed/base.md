@@ -6,3 +6,4 @@
         >a href="https://github.com/murielberehulka" Github
 >.content
 >code_padding_right
+>h2 {{title}}

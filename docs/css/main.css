@@ -79,3 +79,22 @@ h1, h2, h3 {
     width: 100%;
     text-align: center;
 }
+
+.folder *:first-child {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px
+}
+.folder > div {
+    padding: 10px 20px
+}
+
+.next {
+    width: 100%;
+    display: flex;
+    justify-content: right
+}
+.next a {
+    width: auto;
+    padding: 5px;
+}

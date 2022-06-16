@@ -1,0 +1,1 @@
+/home/muriel/documents/murielberehulka/target/release/compiler: /home/muriel/documents/murielberehulka/src/compiler.rs /home/muriel/documents/staticator/src/lib.rs /home/muriel/documents/staticator/src/md.rs /home/muriel/documents/staticator/src/utils.rs

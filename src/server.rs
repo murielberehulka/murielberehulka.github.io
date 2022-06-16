@@ -3,7 +3,7 @@ fn main() {
         rust_net::Settings {
             static_files: Some(rust_net::StaticFilesSettings {
                 root_path: "docs",
-                enable_cache: true,
+                enable_cache: false,
             }),
             ..Default::default()
         },

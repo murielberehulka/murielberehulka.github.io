@@ -1,1 +1,0 @@
-/home/muriel/documents/murielberehulka/target/release/default: /home/muriel/documents/murielberehulka/src/compile.rs /home/muriel/documents/staticator/src/lib.rs /home/muriel/documents/staticator/src/md.rs

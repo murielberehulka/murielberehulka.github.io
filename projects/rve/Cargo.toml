@@ -1,0 +1,11 @@
+[[bin]]
+name = "window"
+path = "src/window/main.rs"
+
+[package]
+name = "rust_vulkan_engine"
+version = "0.1.0"
+edition = "2021"
+default-run = "window"
+
+[dependencies]
